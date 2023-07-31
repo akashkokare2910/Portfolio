@@ -1,27 +1,21 @@
 # Personal Portfolio 🔥
-> https://udhav-saraswat.github.io/
+> https://akashkokare2910.github.io/Portfolio/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Udhav-Saraswat/udhav-saraswat.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://udhav-saraswat.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/udhav-saraswat/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://akashkokare2910.github.io/Portfolio/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/akash-kokare13bz/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.JPG" width="900">
+<img src="website_images/HomePage.png" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.JPG" width="900">
+<img src="website_images/About.png" width="900">
 
-
-#### Projects Page
-<img src="website_images/ProjectPage.JPG" width="900">
   
-
-
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
